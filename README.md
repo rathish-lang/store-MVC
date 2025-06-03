@@ -9,8 +9,8 @@ Web-Based Interface: Users can access the application through any modern web bro
 
 Technologies Used
 Programming Languages:
-C#
-ASP.NET MVC
+C#,
+ASP.NET, MVC
 SQL
 
 Software:
