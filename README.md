@@ -11,7 +11,7 @@ Technologies Used
 Programming Languages:
 C#,
 ASP.NET, MVC
-SQL
+SQL server
 
 Software:
 MS SQL Server 2019 v19.1
