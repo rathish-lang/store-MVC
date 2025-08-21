@@ -17,7 +17,7 @@ Software:
 MS SQL Server 2019 v19.1
 Visual Studio 2022 v4.8.1
 
-Project Structure
+Project Structures
 Controllers: Manage the flow of data between the model and the view, handling user input and updating the interface as necessary.
 Models: Define the data structures and interact with the database, ensuring that the application data is stored, retrieved, and manipulated correctly.
 Views: The front-end of the application, responsible for rendering the user interface and presenting data to the user.
